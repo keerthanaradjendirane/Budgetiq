@@ -146,7 +146,6 @@ HARISH.R-API INTEGRATION AND NLP
    AWS_ACCESS_KEY=your_aws_access_key
    AWS_SECRET_KEY=your_aws_secret_key
    ```
-
 4. Start the development server
    ```bash
    npm run dev
